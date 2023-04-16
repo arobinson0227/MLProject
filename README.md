@@ -1,1 +1,1 @@
-# Predicting Gas Prices
+# Predicting Natural Gas Prices
